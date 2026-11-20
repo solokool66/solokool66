@@ -2,8 +2,8 @@
 
 # Hi there, I'm Solomon Kingsley Eze 👋
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;Flutter+%2F+TypeScript+%2F+Node.js+%2F+C+%2F+Python;IP+Network+Infrastructure+%26+Systems+Engineering">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;Flutter+%2F+TypeScript+%2F+Node.js+%2F+C+%2F+Python;IP+Network+Infrastructure+%26+Systems+Engineering;Open+to+Canadian+Tech+Sponsorship+(SINP+%2F+GTS)" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;Flutter+%2F+TypeScript+%2F+Node.js+%2F+C+%2F+Python;IP+Network+Infrastructure+%26+Systems+Engineering;Clean+Architecture+%26+High-Reliability+Systems">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;Flutter+%2F+TypeScript+%2F+Node.js+%2F+C+%2F+Python;IP+Network+Infrastructure+%26+Systems+Engineering;Clean+Architecture+%26+High-Reliability+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -11,6 +11,7 @@
   <a href="https://linkedin.com/in/solokool"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:solokool66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Port%20Harcourt%2C%20Nigeria-10B981?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Work-Open%20to%20Remote-3B82F6?style=flat-square" alt="Open to Remote" />
 </p>
 
 </div>
@@ -23,7 +24,7 @@ I am a **Software & Network Systems Engineer** bridging the gap between low-leve
 
 - 🔭 **Currently Building:** High-performance offline-first retail systems and multi-engine generative AI voice pipelines.
 - 💡 **Core Engineering Focus:** Low-latency systems, State Management (Riverpod / Redux), Network Protocols (TCP/IP, Sockets), and Relational Database Schema Design.
-- 🇨🇦 **Mobility:** Actively targeting software engineering opportunities offering Canadian employer sponsorship (Saskatchewan SINP Tech Talent Pathway & Global Talent Stream).
+- 🤝 **Collaboration:** Open to high-impact software engineering roles, technical contract work, and innovative open-source projects.
 
 ---
 
@@ -98,11 +99,11 @@ I am a **Software & Network Systems Engineer** bridging the gap between low-leve
 
 ---
 
-### 📬 Connect & Collaborate
+### 📬 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/solokool](https://www.linkedin.com/in/solokool/)
 - 📧 **Direct Email:** [solokool66@gmail.com](mailto:solokool66@gmail.com)
-- 📍 **Location:** Port Harcourt, Rivers State, Nigeria (Open to relocation to Canada / Remote worldwide)
+- 📍 **Location:** Port Harcourt, Rivers State, Nigeria (Open to Remote Worldwide)
 
 <div align="center">
   <i>"Committed to clean architecture, rock-solid reliability, and continuous technical growth."</i>
