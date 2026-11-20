@@ -2,8 +2,8 @@
 
 # Hi there, I'm Solomon Kingsley Eze 👋
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;Flutter+%2F+TypeScript+%2F+Node.js+%2F+C+%2F+Python;IP+Network+Infrastructure+%26+Systems+Engineering;Clean+Architecture+%26+High-Reliability+Systems">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;Flutter+%2F+TypeScript+%2F+Node.js+%2F+C+%2F+Python;IP+Network+Infrastructure+%26+Systems+Engineering;Clean+Architecture+%26+High-Reliability+Systems" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;AI+Multimedia+Pipelines+%26+Local+Inference;Flutter+%2F+TypeScript+%2F+Python+%2F+C+%2F+Node.js;IP+Network+Infrastructure+%26+Systems+Engineering">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;AI+Multimedia+Pipelines+%26+Local+Inference;Flutter+%2F+TypeScript+%2F+Python+%2F+C+%2F+Node.js;IP+Network+Infrastructure+%26+Systems+Engineering" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 ### 🚀 Executive Summary
 
-I am a **Software & Network Systems Engineer** bridging the gap between low-level hardware infrastructure and modern cloud/mobile applications. With a foundation in Electrical/Electronics Engineering and enterprise IP telecommunications, I build robust, fault-tolerant software systems — ranging from POS sync engines and UNIX command interpreters to cross-platform mobile apps and real-time WebSocket services.
+I am a **Software & Network Systems Engineer** bridging the gap between low-level hardware infrastructure and modern cloud, mobile, and AI multimedia applications. With a foundation in Electrical/Electronics Engineering and enterprise IP telecommunications, I build robust, fault-tolerant software systems — ranging from local neural speech pipelines and offline-first POS sync engines to UNIX interpreters and real-time WebSocket services.
 
-- 🔭 **Currently Building:** High-performance offline-first retail systems and multi-engine generative AI voice pipelines.
-- 💡 **Core Engineering Focus:** Low-latency systems, State Management (Riverpod / Redux), Network Protocols (TCP/IP, Sockets), and Relational Database Schema Design.
+- 🔭 **Currently Building:** High-performance local AI multimedia processing pipelines and distributed offline-first retail systems.
+- 💡 **Core Engineering Focus:** Local Neural Inference (Faster-Whisper / INT8), Multimedia Pipelines (FFmpeg / ASS), State Management (Riverpod / Redux), and Network Protocols (TCP/IP, Sockets).
 - 🤝 **Collaboration:** Open to high-impact software engineering roles, technical contract work, and innovative open-source projects.
 
 ---
@@ -34,43 +34,36 @@ I am a **Software & Network Systems Engineer** bridging the gap between low-leve
 
 #### 💻 Languages & Runtimes
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-#### 📱 Frameworks & Frontend
+#### 🧠 AI, Multimedia & Frameworks
 <p>
+  <img src="https://img.shields.io/badge/Faster--Whisper-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 #### 🌐 Systems, Cloud & Networking
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/TCP%2FIP_&_Sockets-005073?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Microwave_P2P%2FP2MP-005073?style=for-the-badge&logoColor=white" />
-</p>
-
-#### 🗄️ Databases & Tooling
-<p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
 </div>
@@ -81,10 +74,10 @@ I am a **Software & Network Systems Engineer** bridging the gap between low-leve
 
 | Project | Description | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
+| ⚡ **[AI-Caption-Studio](https://github.com/solokool66/AI-Caption-Studio)** | Local AI subtitle & viral chroma-key overlay pipeline with sub-millisecond acoustic alignment. | `Python`, `Faster-Whisper (INT8)`, `FFmpeg`, `Flask` | Zero-GPU CPU INT8 inference, kinetic ASS animations, 9:16 & 16:9 chroma key compositing. |
 | 🎙️ **[text-to-speech-app](https://github.com/solokool66/text-to-speech-app)** | Cross-platform Neural TTS Studio leveraging a pluggable polymorphic engine abstraction. | `Flutter`, `Dart`, `Riverpod 2.x`, `ElevenLabs`, `Edge TTS`, `Gemini AI` | Strategy Pattern engine switching, offline Edge TTS fallback, cross-platform audio streaming. |
 | 🛒 **[hybrid-pos-retail](https://github.com/solokool66/hybrid-pos-retail)** | Offline-first Point of Sale and retail inventory engine with peer-to-peer sync protocol. | `TypeScript`, `Node.js`, `SQLite`, `RxDB`, `WebSockets`, `React` | Zero-downtime offline sales, deterministic conflict resolution, atomic local ledger journal. |
 | 🐚 **[simple_shell](https://github.com/solokool66/simple_shell)** | Custom UNIX command interpreter replicating core POSIX sh/bash behaviors from scratch. | `C`, `UNIX / POSIX`, `Systems Programming` | Process lifecycle (`fork`, `execve`, `wait`), custom line parsers, zero memory leaks validated by Valgrind. |
-| 📊 **[sorting_algorithms](https://github.com/solokool66/sorting_algorithms)** | Comprehensive benchmark and implementation of fundamental data sorting algorithms. | `C`, `Data Structures`, `Algorithms` | Time/Space Big-O complexity analysis, pointer manipulation, cache-efficient memory operations. |
 | 🤖 **[whatsapp_bot](https://github.com/solokool66/whatsapp_bot)** | Event-driven real-time conversational messaging engine using modern protocol reverse engineering. | `Node.js`, `TypeScript`, `WebSockets`, `Baileys` | Persistent session caching, rate-limited message dispatchers, async event loop optimization. |
 | 🌐 **[alx-system_engineering-devops](https://github.com/solokool66/alx-system_engineering-devops)** | Enterprise web infrastructure automation, configuration management, and network troubleshooting. | `Bash`, `Linux / Ubuntu`, `Nginx`, `HAProxy` | Automated server provisioning, SSL termination, load balancing, TCP socket diagnostic scripts. |
 
