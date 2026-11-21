@@ -2,8 +2,8 @@
 
 # Hi there, I'm Solomon Kingsley Eze 👋
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;AI+Multimedia+Pipelines+%26+Local+Inference;Flutter+%2F+TypeScript+%2F+Python+%2F+C+%2F+Node.js;IP+Network+Infrastructure+%26+Systems+Engineering">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;AI+Multimedia+Pipelines+%26+Local+Inference;Flutter+%2F+TypeScript+%2F+Python+%2F+C+%2F+Node.js;IP+Network+Infrastructure+%26+Systems+Engineering" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+%26+Network+Systems+Engineer;WordPress+Plugin+Architect+%26+Full-Stack+Developer;AI+Multimedia+Pipelines+%7C+Local+INT8+Inference;Flutter+%7C+PHP+%7C+TypeScript+%7C+Python+%7C+C+%7C+Node.js;Clean+Architecture+%7C+High-Reliability+Systems">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+%26+Network+Systems+Engineer;WordPress+Plugin+Architect+%26+Full-Stack+Developer;AI+Multimedia+Pipelines+%7C+Local+INT8+Inference;Flutter+%7C+PHP+%7C+TypeScript+%7C+Python+%7C+C+%7C+Node.js;Clean+Architecture+%7C+High-Reliability+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/solokool"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:solokool66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Port%20Harcourt%2C%20Nigeria-10B981?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Work-Open%20to%20Remote-3B82F6?style=flat-square" alt="Open to Remote" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-3B82F6?style=flat-square" alt="Available" />
 </p>
 
 </div>
@@ -20,20 +20,21 @@
 
 ### 🚀 Executive Summary
 
-I am a **Software & Network Systems Engineer** bridging the gap between low-level hardware infrastructure and modern cloud, mobile, and AI multimedia applications. With a foundation in Electrical/Electronics Engineering and enterprise IP telecommunications, I build robust, fault-tolerant software systems — ranging from local neural speech pipelines and offline-first POS sync engines to UNIX interpreters and real-time WebSocket services.
+I am a **Software & Network Systems Engineer** blending a foundation in Electrical/Electronics Engineering, enterprise IP telecommunications, and low-level software design. I architect resilient, high-throughput digital systems — from enterprise WordPress plugin suites and local neural speech pipelines to offline-first POS engines, custom UNIX interpreters, and real-time WebSocket messaging infrastructure.
 
-- 🔭 **Currently Building:** High-performance local AI multimedia processing pipelines and distributed offline-first retail systems.
-- 💡 **Core Engineering Focus:** Local Neural Inference (Faster-Whisper / INT8), Multimedia Pipelines (FFmpeg / ASS), State Management (Riverpod / Redux), and Network Protocols (TCP/IP, Sockets).
-- 🤝 **Collaboration:** Open to high-impact software engineering roles, technical contract work, and innovative open-source projects.
+- ⚡ **AI & Multimedia:** [AI Caption Studio](https://github.com/solokool66/AI-Caption-Studio) — local-first neural speech-to-text inference with sub-millisecond acoustic alignment and green-screen chroma rendering.
+- 🔌 **WordPress Engineering:** [Enterprise Broadcast Suite](https://github.com/solokool66/wp-broadcast-suite) (4,700 lines of custom PHP with Amazon SES SigV4 API signing & telemetry) and [Dynamic QR Portal](https://github.com/solokool66/wp-document-qr-portal) (vector Canvas/SVG generation with custom shortlink rewrite routing).
+- 💡 **Core Disciplines:** Enterprise WordPress Plugins, Edge AI Inference, Mobile & Desktop (Flutter/Riverpod), Low-Level Systems (C/POSIX), and Network Protocols (TCP/IP, Sockets).
 
 ---
 
-### 🛠️ Technical Competencies
+### 🛠️ Technical Arsenal
 
 <div align="left">
 
 #### 💻 Languages & Runtimes
 <p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -41,29 +42,30 @@ I am a **Software & Network Systems Engineer** bridging the gap between low-leve
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-#### 🧠 AI, Multimedia & Frameworks
+#### 🌐 Frameworks, CMS & Multimedia
 <p>
-  <img src="https://img.shields.io/badge/Faster--Whisper-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Faster--Whisper-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-#### 🌐 Systems, Cloud & Networking
+#### 🗄️ Databases, Cloud & Networking
 <p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_SES-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/TCP%2FIP_&_Sockets-005073?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microwave_P2P%2FP2MP-005073?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 </div>
@@ -72,14 +74,16 @@ I am a **Software & Network Systems Engineer** bridging the gap between low-leve
 
 ### 🌟 Featured Engineering Projects
 
-| Project | Description | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| ⚡ **[AI-Caption-Studio](https://github.com/solokool66/AI-Caption-Studio)** | Local AI subtitle & viral chroma-key overlay pipeline with sub-millisecond acoustic alignment. | `Python`, `Faster-Whisper (INT8)`, `FFmpeg`, `Flask` | Zero-GPU CPU INT8 inference, kinetic ASS animations, 9:16 & 16:9 chroma key compositing. |
-| 🎙️ **[text-to-speech-app](https://github.com/solokool66/text-to-speech-app)** | Cross-platform Neural TTS Studio leveraging a pluggable polymorphic engine abstraction. | `Flutter`, `Dart`, `Riverpod 2.x`, `ElevenLabs`, `Edge TTS`, `Gemini AI` | Strategy Pattern engine switching, offline Edge TTS fallback, cross-platform audio streaming. |
-| 🛒 **[hybrid-pos-retail](https://github.com/solokool66/hybrid-pos-retail)** | Offline-first Point of Sale and retail inventory engine with peer-to-peer sync protocol. | `TypeScript`, `Node.js`, `SQLite`, `RxDB`, `WebSockets`, `React` | Zero-downtime offline sales, deterministic conflict resolution, atomic local ledger journal. |
-| 🐚 **[simple_shell](https://github.com/solokool66/simple_shell)** | Custom UNIX command interpreter replicating core POSIX sh/bash behaviors from scratch. | `C`, `UNIX / POSIX`, `Systems Programming` | Process lifecycle (`fork`, `execve`, `wait`), custom line parsers, zero memory leaks validated by Valgrind. |
-| 🤖 **[whatsapp_bot](https://github.com/solokool66/whatsapp_bot)** | Event-driven real-time conversational messaging engine using modern protocol reverse engineering. | `Node.js`, `TypeScript`, `WebSockets`, `Baileys` | Persistent session caching, rate-limited message dispatchers, async event loop optimization. |
-| 🌐 **[alx-system_engineering-devops](https://github.com/solokool66/alx-system_engineering-devops)** | Enterprise web infrastructure automation, configuration management, and network troubleshooting. | `Bash`, `Linux / Ubuntu`, `Nginx`, `HAProxy` | Automated server provisioning, SSL termination, load balancing, TCP socket diagnostic scripts. |
+| Project | Status | Tech Stack | Highlights |
+| :--- | :---: | :--- | :--- |
+| ⚡ **[AI-Caption-Studio](https://github.com/solokool66/AI-Caption-Studio)** | `AI Flagship` | `Python`, `Faster-Whisper`, `FFmpeg`, `Flask` | Zero-GPU CPU INT8 inference, 0.05s vocal lookahead, kinetic ASS animations, 9:16 & 16:9 chroma key compositing. |
+| 📡 **[wp-broadcast-suite](https://github.com/solokool66/wp-broadcast-suite)** | `Enterprise WP` | `PHP 8.x`, `WordPress`, `Amazon SES`, `MySQL` | 4,700-line omni-channel broadcasting engine, AWS SigV4 request signing, WP-Cron scheduler, open/click telemetry tracking. |
+| 🔲 **[wp-document-qr-portal](https://github.com/solokool66/wp-document-qr-portal)** | `WordPress & JS` | `PHP`, `JavaScript (Canvas/SVG)`, `WordPress` | Dynamic vector QR code generation, `/qr/{slug}` rewrite routing, secure document hosting, real-time download telemetry. |
+| 🎙️ **[text-to-speech-app](https://github.com/solokool66/text-to-speech-app)** | `Mobile Studio` | `Flutter`, `Dart`, `Riverpod 2.x`, `Multi-AI` | Strategy Pattern engine switching (ElevenLabs, Edge, Gemini, Azure), offline audio streaming fallback. |
+| 🛒 **[hybrid-pos-retail](https://github.com/solokool66/hybrid-pos-retail)** | `Production` | `TypeScript`, `Node.js`, `SQLite`, `RxDB` | Zero-downtime offline sales, deterministic conflict resolution, atomic local ledger journal. |
+| 🐚 **[simple_shell](https://github.com/solokool66/simple_shell)** | `Systems Core` | `C`, `UNIX / POSIX`, `Valgrind` | Process lifecycle (`fork`, `execve`, `wait`), custom line parsers, zero memory leaks validated by Valgrind. |
+| 🤖 **[whatsapp_bot](https://github.com/solokool66/whatsapp_bot)** | `Real-Time` | `Node.js`, `TypeScript`, `WebSockets`, `Baileys` | Persistent session caching, rate-limited message dispatchers, async event loop optimization. |
+| 🌐 **[alx-system_engineering-devops](https://github.com/solokool66/alx-system_engineering-devops)** | `DevOps` | `Bash`, `Linux / Ubuntu`, `Nginx`, `HAProxy` | Automated server provisioning, SSL termination, load balancing, TCP socket diagnostic scripts. |
 
 ---
 
@@ -87,6 +91,8 @@ I am a **Software & Network Systems Engineer** bridging the gap between low-leve
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=solokool66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kingsley's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solokool66&theme=tokyonight&hide_border=true" alt="Kingsley's GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solokool66&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
